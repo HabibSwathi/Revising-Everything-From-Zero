@@ -1,4 +1,4 @@
-# Revising Everything From Zero 🚀
+# Revising Everything From Zero 
 
 A structured 30-day full-stack development revision journey focused on rebuilding strong fundamentals and applying them through practical projects.
 
@@ -51,7 +51,7 @@ And build real, deployable projects with consistent daily GitHub commits.
 
 ---
 
-## 🛠 Projects Included
+## Projects Included
 
 - Responsive Portfolio Website
 - JavaScript Utility App
