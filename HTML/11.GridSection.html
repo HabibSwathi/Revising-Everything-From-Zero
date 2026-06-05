@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .hero {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 20px;
+            text-align: center;
+            align-items: center;
+        }
+
+        .hero div{
+            padding: 20px;
+            background-color: rgb(194, 247, 247);
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero">
+        <div style="grid-column: span 3;">hero hero hero </div>
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+    </section>
+</body>
+</html>
